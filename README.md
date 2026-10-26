@@ -1,4 +1,4 @@
-# SafeCore - Desafio SENAI
+# LedgerSight - Desafio SENAI
 
 Este repositório reúne duas frentes de demonstração tecnológica desenvolvidas para evidenciar como segurança, IA e operação industrial podem ser integradas em cenários críticos.
 
